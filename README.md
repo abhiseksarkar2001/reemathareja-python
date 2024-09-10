@@ -44,6 +44,6 @@ This repository is for educational purposes only. It provides my personal soluti
 ---
 
 *No license selected for this repository.*
-```
 
-Feel free to adjust any section to better suit your needs!
+
+Feel free to adjust any section to suit your needs better!
